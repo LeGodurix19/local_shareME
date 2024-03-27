@@ -1,0 +1,3 @@
+[submodule "django_shareME"]
+	path = django_shareME
+	url = https://github.com/LeGodurix19/django_shareME.git
